@@ -26,7 +26,6 @@
     "sass": "^1.32.8"
   },
   "dependencies": {
-    "js": "^0.1.0",
-    "simplelightbox": "^2.13.0"
+    "simplelightbox": "^2.9.0"
   }
 }
